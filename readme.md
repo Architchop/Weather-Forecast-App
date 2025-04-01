@@ -68,4 +68,4 @@ python main.py
 ---
 
 ## Contact
-Reach out to _architchopra98@gmail.com_ for any support.
+Reach out to _archit.chopra@ontariotechu.net_ for any support.
