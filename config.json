@@ -1,0 +1,5 @@
+{
+    "api_key": "e0be2cfb8cdc9fed53f8679a95755e0a",
+    "base_url": "https://api.openweathermap.org/data/2.5/weather",
+    "geocode_base_url": "http://api.openweathermap.org/geo/1.0/direct"
+}
